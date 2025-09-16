@@ -38,8 +38,9 @@ The simulation results clearly show that **OKMT outperforms RMT** in this sparse
 - **Error Map (4)** – RMT shows higher error across most of the domain (blue areas)  
 
 📷 *Visual Comparison of Flow Fields*
-
+![Figure 1: Visual Comparison](visualComparison.png)
 ---
+
 
 ### Figure 2: Quantitative Comparison
 - **OKMT (blue)** – lower Mean Squared Error, faster execution time  
