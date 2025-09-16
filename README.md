@@ -47,7 +47,7 @@ The simulation results clearly show that **OKMT outperforms RMT** in this sparse
 - **RMT (orange)** – higher error and longer runtime  
 
 📊 *Quantitative Comparison*
-
+![Figure 2: Quantitative Comparison](rerrorDistribution.png)
 ---
 
 ## How It Works
