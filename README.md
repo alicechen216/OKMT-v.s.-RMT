@@ -8,7 +8,13 @@ This repository contains a **MATLAB** script that implements and compares two al
 The experiment demonstrates that for reconstructing a localized flow field from a very small number of sensor trajectories, the **Occupation Kernel method is both more accurate and computationally faster**.
 
 ---
+## References
 
+[1] Meriam, O., Mengxue, H., & Fumin, Z. (2024). *Laplacian regularized motion tomography for underwater vehicle flow mapping with sporadic localization measurements*. **Autonomous Robots, 48**(10).  
+
+[2] Russo, B. P., Kamalapurkar, R., Chang, D., & Rosenfeld, J. A. (2021). *Motion Tomography via Occupation Kernels*. **arXiv preprint** arXiv:2101.02677.  
+
+---
 ## Results Summary
 
 The simulation results clearly show that **OKMT outperforms RMT** in this sparse sensing scenario.
